@@ -1,0 +1,7 @@
+@import url("./components/App.css");
+@import url("./components/Navbar.css");
+@import url("./components/TodoList.css");
+
+@import url("./views/EditTodoView.css");
+@import url("./views/AddTodoView.css");
+@import url("./views/DeleteTodoView.css");
